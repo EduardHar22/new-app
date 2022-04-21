@@ -52,7 +52,7 @@ hr {
     background-color: rgb(245, 245, 245);
 }
 .input-login > input::placeholder {
-    font-size: 0.5px;
+    font-size: 15px;
     color: rgb(179, 179, 179);
 }
 .button-login {
